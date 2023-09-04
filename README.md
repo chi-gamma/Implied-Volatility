@@ -13,9 +13,6 @@ Let $`X={Ke^{-rT}}`$ and $`&delta;={(S-X)\over 2}`$
 I explore two-methods of a good initial guess.<br>
 The Brenner & Subrahmanyam approximation: $`&sigma;=\sqrt{2&pi;\over T} {C-&delta; \over S}`$<br>
 The Corrado & Miller approximation: $`&sigma;=\sqrt{2&pi;\over T}{1\over S+X}{\bigg(C-&delta;+\sqrt{(C-&delta;)^2-{4&delta;^2\over &pi;}}\bigg)}`$ 
- 
-Giuseppe Orlando
-
 
 ## References
 <a id="1">[1]</a> 
